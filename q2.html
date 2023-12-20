@@ -2,17 +2,23 @@
 <html lang="en">
 
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
     <style>
-        .aAnswer {
+        x-magic {
             color: red;
+            size: 2em;
+            font-family: 'Nanum Pen Script', cursive;
+
         }
     </style>
 </head>
 
 <body>
     <h1>The magic 8 ball</h1>
-    <p>Ask me anything</p>
-    <input /><br />
+    <input placeholder="Ask Me Anything!"/><br />
     <x-magic />
     <script>
         class Magic8Ball extends HTMLElement{
