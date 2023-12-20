@@ -67,3 +67,6 @@ e) fix an issue with the provided headings that are problematic for screen reade
 ![mobile in simulator](readmeimages/q5a.png)
 
 ![desktop view](readmeimages/q5b.png)
+
+
+[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/Olga-steblyk/UX220Final)
